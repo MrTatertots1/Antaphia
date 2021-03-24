@@ -1,0 +1,35 @@
+Game Start-
+	
+	Player opens game inside of King's Throne room.
+
+	Player must walk up to the king and talk to him.
+
+	The king will tell the player about the Dragon that is terrorising the city.
+
+	The king will tell the player to go visit the wizard.
+
+	The wizard will then guide the player along the journey.
+
+
+Kingdom Market-
+	
+	The market will have multiple people to talk to.
+
+	1. The shopkeeper.
+		This is where you go to get potions.
+	2. The blacksmith.
+		This is where you go to get weapons/armor.
+	
+	There will also be the wizard tower where you go to talk to the wizard to allow you to go to one of the quests.
+
+Pause Menu Screen-
+
+	The pause menu screen will pause the game where it is.
+	The wizard will show up off to the right of the screen (as if you were talking to the wizard)
+	The game will be darker in the background.
+	There will be buttons with different options on them.
+		1. Resume Game/Stop Talking
+		2. Save Game
+		3. Return to previous save
+		3. Return to kingdom
+		4. Quit the game (will initiate save game)
