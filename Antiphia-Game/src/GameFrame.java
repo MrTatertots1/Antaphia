@@ -10,7 +10,7 @@ public class GameFrame extends JFrame{
     public GameFrame(){
         mm = new MainMenu();
         this.add(mm);
-        this.setTitle("Antifia");
+        this.setTitle("Antiphia");
         this.setResizable(false);
         this.setBackground(Color.BLACK);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
